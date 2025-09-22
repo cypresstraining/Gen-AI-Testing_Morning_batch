@@ -1,0 +1,155 @@
+Thanks for joining with us !!!!!
+Today we would like to understand 
+1. Pre requisites to Learn Gen AI testing 
+
+Differences between AI /Gen AI / Agentic AI in very high level. 
+
+AI => Artificial intelligence  => it is thinking like a human => Machine with brain 
+AI means machine learning algorithms will do predictive analysis based on the conditions you provided.
+As  human AI scientist you can supply conditions to be considered while providing the predictive analysis.
+
+
+Recent Past AI is buzzing !
+========================================================
+Gen AI  => An AI system which generate a new content based on the Customer query or question.
+This content should be a text /Image / Code /Video format.
+but this is a new creative idea developed by AI ( Gen AI).
+Step by step process to complete the Task.
+Example : If you ask a question to my genAI application  automate https://plywright.dev application home page. 
+Answer : I can provide detailed step by step explanation to do this task.
+========================================================
+Agentic AI => An AI system which will complete the tasks by considering it can take decisions. That means kind of autonomous AI .
+
+Example: If you ask a question to my Agentic AI agent  automate https://playwright.dev application home page.
+
+Answer: it generate the code in your VScode and execute them . 
+it is having the super power to complete the task by taking the decision.
+========================================================
+
+1. Manual testing or STLC ( software testing life cycle)
+
+a. Requirement Analysis  => understand the customer requirement 
+b. Able to write the test scenarios and test cases => execute them 
+1. Test methodologies 
+ Smoke testing 
+ Sanity testing 
+ Retesting
+ Regression testing 
+ Positive testing 
+ Negative testing 
+ Happy path
+ Non happy path 
+2. Test case design techniques 
+   BVA
+   ECP
+   Decision table 
+   Error guessing 
+   State transitions 
+
+3. Defect life cycle 
+
+4. Agile process 
+5. JIRA 
+
+c. Identify the defects 
+https://academybugs.com/find-bugs
+========================================================
+2. API testing => 
+
+We need to understand basic of CRUD operations 
+
+Request /Response 
+Status code 
+1XX
+2XX
+3XX
+4XX
+5XX
+Postman tool if possible - similar tools 
+to trouble shoot the problem  => 
+Root cause analysis  => 
+=======================================================
+What we teach in the session or course 
+=======================================================
+3. Understand Frameworks or technologies involved in building AI applications ( Gen AI or Agentic AI) 
+a. Lanchain 
+b.Crew AI 
+LLMS ( large language models )  
+
+4. After building the application as a customer how do we use this application ?  that is matter for tester ! 
+
+=> Prompt Engineering  => supply the prompt to solve your problem. 
+
+This questioning is techniques is called as Prompting!
+how many possible ways to ask a question to AI application. 
+a. Single shot prompt 
+b. few shots prompts 
+c. Tricky prompt 
+d. Funny prompts 
+e. Jail breaking prompt 
+f. Prompt leakage
+g. prompt injection 
+etc...
+techniques we are using in the prompt engineering training.
+
+5. We can take the help of core python and libraries to communicate with LLMS as a AI tester. 
+
+LLMS speak with the tools or frame works -  Python programming language  => 
+
+=> Loops 
+=> Conditional statements 
+-> Variables => 
+=> operators kind of very basics 
+
+Numpys  =>
+Pandas  => 
+========================================================
+We are adding playwright with MCP (model context protocal )  to boost your Automation skills .
+========================================================
+AI powered Testing 
+a. Gen AI /Agentic Product testing 
+b. Automating testing with AI ( playwright) - 
+MCP => which is easily connecting different tools
+Any tools  => 
+To complete the tasks AI brain requires some hands  => MCP
+======================================================== 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  
+
+
+2. What are the deliverable in this Gen AI testing 
+3. Current trends in the Gen AI testing 
+4. Domain which are using Gen AI products 
+5. A sample demo on Gen AI products or AI agents which can do smart development or testing . 
+6. Introduction to prompt engineering - prompting 
+7. Job market or description we are looking for after this Gen AI course 
+8. Who will learn this Gen AI course . 
