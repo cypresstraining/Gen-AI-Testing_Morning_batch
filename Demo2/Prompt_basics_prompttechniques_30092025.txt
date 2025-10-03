@@ -1,0 +1,99 @@
+Good Morning !!!!!
+Recap !
+
+What is the need of prompting in Software testing/ AI testing .
+
+How to ask a question to your AI application. prompting 
+========================================================
+1. Art of  asking the question :
+Prompting fundamentals  :
+========================================================
+What kind of information we need to supply to the AI application.
+a. Clear Intent: 
+What exactly you want AI to do . 
+b. Provide Context : 
+1. Background information
+2. Constraints
+=> ex army person  => 
+=> student 
+=> do not select one stop flights 
+I do not want middle seat 
+ 
+3. User scenarios 
+=> specify more information - like I want to travel in window seat  - seat map 
+
+c. Include examples 
+d. Specify format 
+Define how you want the response from the AI. 
+
+Note: AI is not suppose to give the fixed outcome for your prompts - it is giving conversational output in this case we can not expect the same answer for same question. 
+=======================================================
+how much information you provide to the AI machine or application based on that information your will get a accurate response from the AI machine. 
+========================================================
+Response should be : 
+
+Relevant to your intent  supplied .
+Context relevant output supplied.
+If you ask Table format  => table format only 
+all your constraints or conditions are considered by AI machine and supply based on these constrains or they ignored. 
+=======================================================
+Note: what ever your supplied through prompt to the AI machine those need to be considered while supplying the response. 
+========================================================
+a. input is correct or not 
+b. output is correct or not for every input 
+
+1. Clear intent need to be provided 
+2. Provide context 
+3. Specify output format 
+4. Include examples 
+
+take a reference of AI trip planner and AI tutor 
+AItrip planner : one who assist you to book a trip by chatting with my ai application.
+supply the trip details - I will do all tasks on be half of you.
+
+AITutor: it is your trainer assistant at your comfort level. You can ask a question about physics this Tutor application will answer your physics questions. 
+
+
+create at least 10 prompt with different intent , context and output format with simple examples.
+
+qtramprasad@gmail.com 
+Subject : yourname_GenAI_Prompting_task1_30092025
+========================================================
+2.Different prompting techniques :
+======================================================== 
+a. Single shot prompt : instructional prompt 
+========================================================
+=> A simple instruction or a wage instruction provided to the AI application. 
+
+Example : I want an ecommerce application
+
+In this example we do not provide context , output format and examples .  but you specified clear intent based on the intent AI machine replied you with an ecommerce application.
+
+Output from bolt.new => https://ecommerce-platform-d-i0q2.bolt.host
+========================================================
+2. Few shot Prompt 
+========================================================
+this prompt should provide the examples to understand your question very clearly .
+
+
+example prompt :
+I want an ecommerce application for my appreal shopping similar to myntra.com in HTML,CSS, JS and React JS technologies by using MYSQL .
+========================================================
+
+
+
+
+
+
+
+
+
+
+
+2. How this prompting helping us in :
+a. Functional testing 
+b. boundaries testing 
+c. tricky/ complex/ contextual scenarios
+d. Security and data validation 
+e. Performance and load testing of conversations 
+========================================================

@@ -1,0 +1,53 @@
+Good Morning !!!!!
+
+Recap !!!!!
+
+1. We are understanding prompting techniques 
+
+Prompting is nothing but asking a question to the AI application. This is how customer is using the prompting to solve his problem with AI application. 
+
+a. positive testing => positive questioning to AI
+b. negative testing => Negative questioning to AI
+c. happy path testing => which questions customer more frequently ask AI.
+d. non happy path testing => Which questions are very rarely asked by your customer 
+
+We covered: 
+
+Positive testing :
+1. Single shot prompt /Instructional prompt: 
+2. Few shot prompt / Provide an example : 
+3. Role based prompt : customer care agent/ Admin/ Tutor
+4. Persona/Style based prompt : 
+===========================================
+Negative testing :
+5.Prompt Injection 
+6.Prompt leakages 
+7.Jail Breaking 
+====================================================
+8. Iterative refinement :  Frequently customer can ask AI brain by refining  question and until he gets the accurate answer/response. 
+
+9. Evaluation frameworks : 
+a. outcome accuracy /Quality / safety 
+
+10. Contextual prompting :
+Previous question related context will be added to your current question .
+11. Chain of thoughts /step by step prompt :
+
+We can create test cases for these prompts for AItutor application. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

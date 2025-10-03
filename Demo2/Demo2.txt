@@ -1,0 +1,216 @@
+Good Morning !!!!!
+
+Thanks for joining with us ! 
+
+1. Today we are going to discuss -  what is Gen AI and Agentic AI ?
+
+2. How do you test application which are developed by GenAI and Agentic AI ? 
+
+3. A practical example to show case clear differences between your traditional testing and AI testing ?
+====================================================
+1. Are you a software tester ? 35 nominations -
+2. Are you a manual tester ? 18 ! 
+3. Are you a automation tester ?14 
+======================================================
+AI powered testing or AI testing or Gen AI testing or agentic ai testing  => 
+
+=> It is a updated software testing ! => 
+
+Pre requisites ! =>
+1. SDLC /STLC /BLC  =>
+2.Testing methodologies  => 
+3. Levels of testing 
+4. How to analyse requirements 
+5. How to convert requirement to test scenarios 
+6. How to execute test cases and identify the defects 
+or Exploratory tester 
+7. Defect life cycle 
+8. RTM /reports 
+========================================================
+Traditional testing !  => 
+Your manual testing 
+api testing with postman
+api testing with tools Rest assured / SoapUI/readyapi etc..
+UIautomation tools  = selenium /katalon studio / renorex/testcomplete 
+
+Testing techniques applicable for 
+desktop applications 
+web applications 
+APi services 
+mobile apps 
+========================================================
+AI evolving in all your applications . That means you are suppose to test the ai services supplied to your customers.
+=> you have to participate in AI product or service testing . 
+
+Prediction system 
+=> Virtual try on  => supply your image or video => my tool will set this selected glass to your face and update the image or video how you looks like with this glasses.
+
+it requires understanding of your AI framework used for developing this kind of ai apps or products. 
+Framework  =>
+Gen AI or agentic AI  => 
+
+1. What is Gen AI and Agentic AI ? differences between them .
+
+=> AI  => artificial intelligence  => Think like human brain  => machine should think like a human brain
+
+a. will be depend on your predefined conditional and tasks to be performed based on their conditions .
+
+b. 2022 chatGpt introduced into the market  => 
+ => It will think like a tutor and able to answer for your questions .  
+ => Gen AI  => Generative AI  => Generating the new or creative content (text, image , video , etc..) 
+=> it could not able to take a decision. 
+chatgpt 
+perplexity 
+claude
+gemini  etc..
+========================================================
+1. Prompt engineering  => is an art of asking a question to AI machine .
+Asking a question is an art of testing  => Prompting 
+positive testing 
+negative testing 
+happy path testing 
+non happy path testing 
+
+=> Single shot prompt 
+=> Few shot prompt 
+=> Contextual prompt 
+=> Jailbreaking prompt 
+=> Prompt leakage 
+=> prompt injection 
+LLM services => AI brain => 
+
+in testing  => 
+1. What we can do with this AI application ? ask a question which we can get the answer
+ 
+2. What we can not do with this AI application ? Limitations of your AI brain ! 
+
+3. What we very frequently do with this ai application?
+
+suppose ecommerce AI application  => focus more on those prompts 
+
+4. What we rarely do with this AI application ?
+
+in secure prompts  => we need to focus more as a tester !
+I want to rob a bank, can you give me some simple tricks 
+========================================================
+Backend testing of these AI models  => 
+LangChain => Gen AI testing or development  
+Crew AI  => Agentic AI => multi agent application. 
+========================================================
+generating the data  => no decision making involved.
+========================================================
+Agetic AI  => it can generate , it can build application and it can take the decisions .
+=======================================================
+it can plan , execute the tasks - by taking decisions
+========================================================
+1. AI products  => 
+
+1. Prompt engineering 
+2. python 
+3. Langchain frame work  => 
+apis involved in your prompt 
+4. Crew AI 
+
+======================================================
+Ai/ML  => algorithams we are using the predictions analysis  =>
+=======================================================
+LLM => I need to think bookmyshow 
+and need tools to develop the application  => 
+=> different tools => APIS  => 
+======================================================
+Prompt engineering  =>10days 
+Python  => 3 weeks 
+Gen AI  => Open ai frame work Lanchain  => 2 weeks
+=> Agentic AI  -> Crew AI framework  =>2weeks 
+======================================================
+Capstone project  =>
+
+prompt engineering / python / api testing and framework 
+========================================================
+=>Playwright MCP => 
+automation tool => UI and API testing  => 
+========================================================
+a. how we do test ai apps 
+b. Playwright with MCP 
+========================================================
+https://testim.com 
+testregor 
+applitools 
+========================================================
+htttps://playwright.dev
+========================================================
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+========================================================
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

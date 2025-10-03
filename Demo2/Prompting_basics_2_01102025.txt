@@ -1,0 +1,69 @@
+Good Morning !!!!!
+
+Recap !
+Prompting Techniques  - 
+a. Single shot prompt
+example: a prompt which is only considering the intent 
+
+b. few shot prompt 
+example : a prompt which contains - 
+intent 
+context 
+outcome format 
+example 
+ 
+I want an ecommerce application for my apparel shopping similar to myntra.com in HTML,CSS, JS and React JS technologies by using MYSQL .
+
+c. Role based prompt  : 
+
+we do have different roles  - customer care agent 
+admin 
+tutor 
+student 
+Different roles provide different aspects of understanding 
+
+Example: in the prompt we would like to mention the role  that AI should provide the help.
+
+Which role play this AI is doing that we need to mention in the role.
+
+Customer for e commerce  => 
+Admin for e commerce  =>
+Selling person for ecommerce  => 
+customer care agent for ecommerce =>
+Delivery agent for ecommerce  => 
+LLM should be input with this role to give more specific 
+information about how do LLM think . 
+[Role play] 
+
+Example: As an experienced QA engineer ,Write a check list for exploratory testing of a shopping cart in an ecommerce app. 
+Example:As an fresher QA, Write a check list for exploratory testing of a shopping cart in an ecommerce app.
+Example: As a developer, I want to test my ecommerce application shopping cart feature in an ecommerce app , please help in writing the checklist .
+
+Example : As a UAT tester , Write a check list for exploratory testing of a shopping cart in an ecommerce application 
+
+4. Iterative prompting : 
+
+Start simple and then refine.
+
+step #1 : Give me basic test cases for a search bar.
+Step#2 : Now include edge cases like Empty string inputs and like SQL injection.
+step#3 : Add accessibility test scenarios for screen reader users 
+Step#4 : Add compatibility test scenarios for different browsers
+Step#5 : Add Security test scenarios for authentication and authorization.
+
+5. Persona prompting : Explain who is your audience. 
+
+example: Explain AI to a 5 years old kid in a comic style
+example : Explain AI to a Graduation student 
+Example : explain AI to a AI scientist .
+====================================================
+6. Prompt chaining 
+7. Prompt leakage 
+8. Prompt injection 
+9. Jailbreaking 
+=====================================================
+
+
+
+
+ 
