@@ -1,0 +1,123 @@
+Good morning !!!!!
+
+Recap !
+
+We are trying to understand what is 
+===================================================================
+Gen AI application: 
+===================================================================
+AI applications are useful to generate the new content or creative content. those applications are called as Generative AI application.
+
+to create the text content 
+to create the code - 
+to create the Images  - 
+
+based on supplied prompt AI machine ( LLM - Large language model) 
+LLM also called as AI brain  => 
+
+example: 
+chatgpt 
+Gemini
+perplexity etc...
+==================================================================
+Agentic AI application 
+==================================================================
+Agentic AI application are a bit advanced applications , not only generating the content and able to perform some decision making .
+
+Like human it will plan , execute the tasks. 
+
+it is having the autonomous in the nature , it is having the self decision making capabilities.
+
+we creates a clone of bookmyshow application with the help of bolt.new Agentic aI application.
+
+bolt.new is a service provider to develop web applications by using React/Angular with superbase. 
+bolt.new application contains a LLM which can understand customer  question and transform the question into an application . 
+
+=> we do not wait for generating data or code or application with ai own decisions .
+
+=> In both the applications prompting is plays vital role - that means how you are supplying the information to the LLM ( AI brain) is very important to create or generate the code /text or application. 
+
+pre requisite is Prompting  => prompt engineering 
+
+Purely this testing is useful to test the AI Brain capabilities .
+a. what we can do with this AI application  => Positive testing
+b. What we can not do with this AI application => negative testing  
+c. What we can frequently do with this AI application => Happy path testing 
+d. What we can rarely do with this AI application=> non happy path testing 
+
+Like the same traditional testing we do cover these 4 testing methodologies for AI apps as well . but previously we do cover this in manual testing /automation testing by supplying the different range of inputs and test them with their corresponding outcomes.
+input  = outcome 
+3+3= 6
+but in this AI applications we can not guarantee that same outcome we can get again if you ask the same question. 
+
+it may be a relevant / almost close but not the same.
+That is the reason we do have a percentage of accuracy in the AI applications. 
+=> Output is not guaranteed with same text or context. relevant outcome we need to expect . 
+
+=>Art of asking the question to prove howmuch % of correct answers we are getting for this ai application. 
+
+=> bolt.new or lovable.dev  => 
+
+if I want to test these applications like a customer =>[ this is very important in software testing ] prompting is the only way  how customer approaches your ai application. 
+
+prompting is the only the way to connect with AI applications like a customer. 
+==================================================================
+=> what is this prompt engineering ? how to learn this prompt engineering . 
+a. positive testing with the prompts which can able to generate the outcome .{in scope question to LLM}
+b. Negative testing with the prompt which can not able to generate the outcome. { out of the LLM capabilities} 
+c. Happy path testing with the well known prompts from the customer side to generate customer friendly outcome.
+d. Non happy path testing with the typical/funny/unsafe prompt from the customer side to generate the  understandable  answer for your question. LLM may not able to answer for your question , but provide warning / limitation to the customer. 
+==================================================================
+What is prompt ? 
+
+ask a question => how to ask a question => 
+in all AI customer based applications  => Chatbox to ask a question. 
+
+Textbox is available to the customer to ask a question => 
+customer you can supply your question in the box and submit the question . 
+=> your AI application takes your question ( natural language question) 
+=> translate this question into AI machine or tools understandable instructions /tasks 
+=> LLM /AI brain will assign the task to the tools which we are using in this AI application ( API calls) 
+=> connect with the tools and assign the task 
+=> once task completed = capture the outcome from the tools and translate again this AI machine generated outcome into Natural language outcome .
+=> Natural language outcome [it is only understandable to your customer] 
+
+=> request  => LLM  => Tasks to the tools  => capture answer  => translate the answer  => Response to the customer in his understandable language
+
+Prompt engineering first  => if you are specialist in asking a question to the AI application then 50% of the AI application testing w.r.t customer will be done. 
+==================================================================
+but if the outcome is not in your way / your expected outcome is not supplied by AI then as a software tester you have to trouble shoot the problem and raise a defect . to raise defect you need post-mortem the application step by step to do so we need to understand the AI application LLM capabilities and functional aspect with the help of Framework . 
+LangChain /CrewAI frameworks to understand behind  technology or AI brain to sort out the problem encountered in the AI testing 
+to supply wrong outcome from one of the API / masking /tampering the outcome / and see how it is handled by AI application. to under stand all of the 
+Module 3/4 Frameworks in gen AI testing will help us. 
+===================================================================
+
+Front testing  => prompt engineering 
+Backend Testing  => use framework and troubleshoot Prompt outcome issues with in the LLM 
+to talk with LLM  => Python 
+if you want to generate a un secure / malfunctioned API service to supply as an input to your brain you need to understand how to trouble this existing API with your inputs. so it should be a problem to generate the right content. 
+==================================================================
+we cover all these things in the project lectures to complete all your learnings as a Gen AI tester /Agentic AI tester.
+===================================================================
+
+
+Prompt engineering is an art of asking a question to AI.
+================================================================
+Agenda of the course : 
+1. Prompt engineering => 1 week  => a sample application - AI tutor
+2. Python - Core python - Numpys , pandas 
+3. Langchain framework -
+4. CrewAI frame work -
+5. Capstone project to test the end to end AI application.
+=================================================================
+LMS  => Video lecture  -
+Classroom notes 
+GitHub URL to access the code base we are using the class. 
+==================================================================
+1. How to write different prompt 
+a. single shot prompt
+b. few shot prompts 
+c. contextual prompt  => 
+===================================================================
+
+

@@ -1,0 +1,153 @@
+Good morning !
+
+Recap! : 
+
+1. Gen AI and Agentic AI  => 
+
+how to ask a question ? to AI machine  ? 
+=> As a customer to the chatGpt how you are asking a question? the same way we do ask a question to your Gen AI or Agentic AI application. 
+
+As a tester you need to cover  => 
+Positive way of asking the question => That means this AI application is capable enough to serve you. 
+=> this question is already trained by your LLM and able to get the answer.
+Take an example : 
+you are working on an AITutor application which is designed to help you on Manual testing , Playwright with JS and Type script. 
+
+=> now I can ask a question related to Manual testing.
+
+example : Explain me the differences between smoke testing and sanity testing.
+
+I can get the answer. 
+
+In scope question is comes under Positive testing of your Prompt.
+
+Negative way of the asking the question =>
+The AI Tutor application is not capable to answer selenium question.
+
+Example : Explain me how to launch a browser in selenium ? 
+
+AI Tutor application try to fetch answer from learning or trainings !  => it is not in the scope of training we provided hence - I am not able to answer your question. 
+==================================================================
+Happy path way of the asking question =>
+Important interview questions very frequently asked by my students . 
+we can get more accuracy answers .
+==================================================================
+Non happy path way of the asking question =>  
+An outdated concepts or less important concept - corner cases / funny questions if you ask -  then how it is reacting to your question. 
+
+a. Biasing questions 
+b. in secure etc...
+===================================================================
+
+in asking a question to the AI application. => Art of asking a question => Prompting  => Prompt engineering=> 
+===================================================================
+Traditional software testing is focused on the input parameter you supplied to the software application by using GUI/UI or API services and it provides you the constant output for the same inputs.
+
+if you do same test again and again it provides you the same results.
+
+but in AI testing we can not guarantee the same answers from the same question. 
+
+1. Teach me what is smoke testing in my chatgpt ?
+2. Same question to gemini? can we get the same answer ? No,
+=>======================================================>
+
+How your AI product is responding to the customer question. 
+outof scope question we need to input to the AI product . 
+
+1. Positive Prompt for lovable.dev application 
+Positive Testing : 
+example prompt : 
+
+
+
+2. Negative prompt for lovable.dev application
+
+Example Prompt for negative testing : 
+Prompt :
+I want to build an ecommerce application by using python and django framework.
+=============================================
+Lovable
+8:42 AM on Sep 24
+Thought for 9 seconds
+==============================================
+
+For your negative prompt - answer from Lovable.dev
+================================================
+
+I'd love to help you build an ecommerce application! However, I need to clarify something important about the Lovable platform.
+
+Lovable projects are built specifically with React, Vite, Tailwind CSS, and TypeScript. The platform cannot run Python/Django backend code directly. However, I can help you create a beautiful, modern ecommerce frontend that connects to backend services.
+
+Here are your options:
+
+Option 1: Full Frontend with Supabase Backend
+
+    Build a complete React ecommerce frontend
+    Use Supabase for authentication, database, and API functionality
+    Handle products, cart, orders, user accounts, etc.
+    No Python/Django needed - everything works seamlessly
+
+Option 2: React Frontend Only
+
+    Create a stunning ecommerce frontend interface
+    Design for connecting to your existing/future Django API
+    Focus on user experience, product displays, checkout flow
+
+Would you like to proceed with Option 1 (complete app with Supabase backend) or Option 2 (frontend that you'll connect to Django later)?
+
+Or if you specifically need Django, you might want to use a different development environment that supports Python backends.
+
+What would work best for your project?
+
+I'd love to help you build an ecommerce application! However, I need to clarify something important about the Lovable platform.
+
+Lovable projects are built specifically with React, Vite, Tailwind CSS, and TypeScript. The platform cannot run Python/Django backend code directly. However, I can help you create a beautiful, modern ecommerce frontend that connects to backend services.
+
+Here are your options:
+
+Option 1: Full Frontend with Supabase Backend
+
+    Build a complete React ecommerce frontend
+    Use Supabase for authentication, database, and API functionality
+    Handle products, cart, orders, user accounts, etc.
+    No Python/Django needed - everything works seamlessly
+
+Option 2: React Frontend Only
+
+    Create a stunning ecommerce frontend interface
+    Design for connecting to your existing/future Django API
+    Focus on user experience, product displays, checkout flow
+
+Would you like to proceed with Option 1 (complete app with Supabase backend) or Option 2 (frontend that you'll connect to Django later)?
+
+Or if you specifically need Django, you might want to use a different development environment that supports Python backends.
+
+What would work best for your project?
+
+1. Positive prompt => which we can answer fully to satisfy the customer
+2. negative prompt => which can not able to satisfy the customer due to limitations of the AI application.
+=================================================================
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
